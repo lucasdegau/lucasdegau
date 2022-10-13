@@ -1,8 +1,10 @@
-Olá! Eu sou Lucas, estudante de Análise e Desenvolvimento de Sistemas e ansioso para iniciar minha carreira como desenvolvedor.
+Hello, Lucas here! 👋
 
-No momento estou me aprofundando em HTML, CSS e JavaScript e desenvolvendo projetos que possam me ajudar de alguma forma no meu dia a dia.
+Currently majoring in systems analysis and development at Estácio de Sá university.I've been studying HTML, CSS and JavaScript and developing projects
+that can help me in any way during my days.
+On my free time i work with children recreation, watch animes, make some illustrations and play lots of videogames.
 
-<!---
-lucasdegau/lucasdegau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div> 
+  <a href="https://instagram.com/degau" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:lucas_broque@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucasbarbosaroque/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
